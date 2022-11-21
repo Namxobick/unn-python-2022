@@ -1,7 +1,7 @@
 import re
 
-import json_parsing as scraping
-import read_csv_file as csv
+import json_parser as scraping
+import reader_csv_file as csv
 from loguru import logger
 from writer_xml import write_xml
 
