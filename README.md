@@ -9,9 +9,9 @@
 6. [Asyncio data parser](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/7/asyncio-data-parser)
 
 - Practice
-1. [Console game 15 puzzle](https://github.com/Namxobick/unn-python-2022/tree/main/practice/1)
-2. [Testing exceptions](https://github.com/Namxobick/unn-python-2022/tree/main/practice/2)
-3. [Testing simultaneous requests](https://github.com/Namxobick/unn-python-2022/tree/main/practice/3/SimultaneousRequests)
+1. [Console game 15 puzzle](https://github.com/Namxobick/unn-python-2022/tree/main/practice/1/console-game-15-puzzle)
+2. [Testing exceptions](https://github.com/Namxobick/unn-python-2022/tree/main/practice/2/testing-exceptions)
+3. [Testing simultaneous requests](https://github.com/Namxobick/unn-python-2022/tree/main/practice/3/simultaneous-requests)
 
 # unn-python-2022
 
